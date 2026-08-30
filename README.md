@@ -29,3 +29,8 @@ docker run --rm -v "$(pwd)":/workspace security-toolkit:latest ffuf -h
 ```bash
 docker run -it -v /path/to/your/files:/workspace security-toolkit:latest
 ```
+
+## TODO
+
+- [ ] Resolve or remove the TODO and FIXME markers in 1 file:
+      `Dockerfile`
